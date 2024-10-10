@@ -1127,6 +1127,5 @@ const product = [
     }
 ]
 
-const cut = product.slice(0,14)+
 
-console.log(cut)
+console.log(product)
